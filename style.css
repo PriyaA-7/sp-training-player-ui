@@ -1,0 +1,9 @@
+body {
+  font-family: system-ui, -apple-system, Segoe UI, sans-serif;
+  margin: 40px;
+}
+
+video {
+  margin-top: 20px;
+  max-width: 100%;
+}
